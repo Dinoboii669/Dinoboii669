@@ -32,18 +32,6 @@
 ![Linux](https://img.shields.io/badge/Linux-Systems-yellow?style=for-the-badge&logo=linux)
 ![CUDA](https://img.shields.io/badge/CUDA-GPU-green?style=for-the-badge&logo=nvidia)
 
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinoboii669&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoboii669&layout=compact&theme=tokyonight&cache_seconds=1800" height="170">
-</p>
-
-
-
-
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/yashas-n-68328b310/  
