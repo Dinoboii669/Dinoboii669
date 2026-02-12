@@ -13,7 +13,7 @@
 - Building real-world applications (Java, JavaFX, Python)  
 - Interested in GANs, Image Processing & NLP 
 
----
+
 
 ## Tech Stack
 
@@ -48,10 +48,10 @@
 - LinkedIn: https://www.linkedin.com/in/yashas-n-68328b310/  
 - Email: yashasnk1349@gmail.co,  
 
----
+
 
 <p align="center">
   <i>"Just enjoy the process"</i>
 </p>
 
--->
+
