@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer • Cybersecurity enthusiast • Problem solver</h3>
 
 <p align="center">
-  Building intelligent systems, scalable applications, and elegant solutions.
+  
 </p>
 
 
