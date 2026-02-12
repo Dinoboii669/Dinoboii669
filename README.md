@@ -7,16 +7,15 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎯 Focused on AI/ML, Deep Learning & Intelligent Systems  
-- 🛠 Building real-world applications (Java, JavaFX, Python)  
-- 🔬 Interested in GANs, Image Processing & NLP  
-- 🚀 Always optimizing performance & architecture  
+- Focused on AI/ML, Deep Learning & Intelligent Systems  
+- Building real-world applications (Java, JavaFX, Python)  
+- Interested in GANs, Image Processing & NLP 
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
@@ -35,32 +34,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170">
 </p>
 
----
 
-## 🚀 Current Focus
-
-- Building AI-powered applications  
-- Training GAN models for image restoration  
-- Developing scalable Java-based systems  
-
----
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: your.email@example.com  
+- LinkedIn: https://www.linkedin.com/in/yashas-n-68328b310/  
+- Email: yashasnk1349@gmail.co,  
 
 ---
 
 <p align="center">
-  <i>"Precision. Performance. Intelligence."</i>
+  <i>"Just enjoy the process"</i>
 </p>
 
 -->
