@@ -5,7 +5,7 @@
   Building intelligent systems, scalable applications, and elegant solutions.
 </p>
 
----
+
 
 ## About Me
 
@@ -32,13 +32,13 @@
 ![Linux](https://img.shields.io/badge/Linux-Systems-yellow?style=for-the-badge&logo=linux)
 ![CUDA](https://img.shields.io/badge/CUDA-GPU-green?style=for-the-badge&logo=nvidia)
 
----
+
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinoboii669&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoboii669&layout=compact&theme=tokyonight" height="170">
 </p>
 
 
