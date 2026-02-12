@@ -18,9 +18,9 @@
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-Intermediate-blue?style=for-the-badge&logo=cplusplus)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch)
