@@ -33,9 +33,8 @@
 ![CUDA](https://img.shields.io/badge/CUDA-GPU-green?style=for-the-badge&logo=nvidia)
 
 ## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/yashas-n-68328b310/  
-- Email: yashasnk1349@gmail.co,  
+ 
+- Email: yashasnk1349@gmail.com  
 
 
 
